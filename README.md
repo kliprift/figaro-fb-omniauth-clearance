@@ -3,6 +3,7 @@ reference_links:
 1) https://github.com/thoughtbot/clearance
 2) https://github.com/NextAcademy/how_to_integrate_clearance_wtih_facebook
 3) https://gist.github.com/stevebourne/2394427
+4) https://github.com/bestofthesoul/June16_tutorial/blob/master/figaro_fbomniauth_clearance.md
 ```
 
 1) gemfile
